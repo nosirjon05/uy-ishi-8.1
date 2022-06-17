@@ -1,0 +1,10 @@
+.shadow{
+  width: 600px;
+  margin: 0;
+  margin-bottom: 26px;
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 56px;
+  text-align: center;
+  box-shadow:  600px 0px teal,600px 50px  green,0px 50px black,0px -50px yellow,600px -50px red,-600px 0px gray,-600px 50px blue,-600px -50px lightcoral;
+}
